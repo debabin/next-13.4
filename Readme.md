@@ -1,27 +1,17 @@
-# NextGram
+# ✨ NEXT 13.4 STATE - это будущие фронтенда ?
 
-This is a sample Next.js application that takes advantage of the advanced routing capabilities.
+В данном ✨ ролике поговорим с вами о спорном и глобальном обновлении next 13.4. Посмотрим все обновления и обсудим, почему именно next 13.4 идет таким путем
 
-The photo route can be attached to _two distinct_ components:
+[![🔥 NEXT 13 - лучший react фреймворк 2023 года (nextjs 13)](https://img.youtube.com/vi/MxR7ox93vz8/maxresdefault.jpg)](https://youtu.be/MxR7ox93vz8)
 
-1. When navigating within the application, it is rendered as a modal
-1. When the page is refreshed, it is rendered as a standalone page
+## Поддержка автора 🧊
+- 💵 &nbsp;**[boosty](https://boosty.to/siberiacancode)**
+- 💵 &nbsp;**[donatealerts](https://www.donationalerts.com/r/siberiacancode)**
 
-![NextGram](https://i.imgur.com/KF0KExk.gif)
-
-# Try it Yourself
-
-## Demo
-
-https://nextgram.vercel.app
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fvercel%2Fnextgram)
-
-## Locally
-
-```bash
-git clone https://github.com/vercel/nextgram.git
-cd nextgram/
-yarn
-yarn dev
-```
+## Социальные сети
+- :popcorn: &nbsp;**[youtube](https://www.youtube.com/c/SIBERIACANCODE)**
+- :popcorn: &nbsp;**[twitch](https://www.twitch.tv/siberiacancode)**
+- :bird: &nbsp;**[vk](https://vk.com/siberiacancode)**
+- :airplane: &nbsp;**[telegram](https://t.me/siberiacancode)**
+- :robot: &nbsp;**[discord](https://discord.gg/UsM4F9h6hn)**
+- :comet: &nbsp;**[github](https://github.com/debabin)**
