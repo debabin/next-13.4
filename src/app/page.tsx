@@ -8,9 +8,9 @@ const Home = async () => {
 
   return (
     <main className="container mx-auto">
-      <h1 className="text-center text-4xl font-bold m-10">NextGram</h1>
+      <h1 className="text-center text-4xl font-bold m-10">next 13.4</h1>
       <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-3 auto-rows-max	 gap-6 m-10"></div>
-      <div className="flex flex-wrap">
+      <div className="flex flex-wrap justify-center">
         {pokemons.results.map((pokemon) => {
           const [[, id]] = pokemon.url.matchAll(/\/(\d+)\//g);
 

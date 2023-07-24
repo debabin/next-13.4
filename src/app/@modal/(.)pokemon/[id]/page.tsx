@@ -1,6 +1,6 @@
 import { pokeApi } from "@/utils";
 
-import Modal from "../../../../components/modal/Modal";
+import { Modal } from "../../../_components/Modal";
 import { PokemonCard } from "../../../_components/PokemonCard";
 
 import styles from "./page.module.css";

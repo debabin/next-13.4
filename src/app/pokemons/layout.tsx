@@ -1,10 +1,10 @@
-interface NewsLayoutProps {
+interface PokemonsLayoutProps {
   left: React.ReactNode;
   right: React.ReactNode;
   children: React.ReactNode;
 }
 
-const NewsLayout = (props: NewsLayoutProps) => (
+const PokemonsLayout = (props: PokemonsLayoutProps) => (
   <div className="flex flex-col gap-10">
     {props.children}
     <div className="flex gap-5">
@@ -14,4 +14,4 @@ const NewsLayout = (props: NewsLayoutProps) => (
   </div>
 );
 
-export default NewsLayout;
+export default PokemonsLayout;
